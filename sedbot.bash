@@ -3,12 +3,12 @@
 #license: GNU GPL v3+
 
 
-SERVER=irc.example.net # the IRC server to connect to
+SERVER=irc.rizon.net # the IRC server to connect to
 PORT=6667 # port to connect to
 NICK=sedbot # bot's nickname
 LOGIN=sedbot # bot's username
 REALNAME=sedbot # bot's name
-CHANNELS=('#example') # array of channels to autojoin at start
+CHANNELS=('#gaycedra') # array of channels to autojoin at start
 IRC_LOG=~/sedbot.log # irc message log
 ERROR_LOG=~/sedbot.err # log of errors, events and used regexps
 
